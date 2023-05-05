@@ -16,5 +16,5 @@ chmod 777 php.ini
 sudo service apache2 restart
 rm -f $HOME/install-ioncube1.sh* > /dev/null 2>&1
 history -c
-#clear
+clear
 echo " \e[0;31mInstalado com Sucesso \e[0m"
