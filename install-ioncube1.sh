@@ -17,4 +17,4 @@ sudo service apache2 restart
 rm -f $HOME/install-ioncube1.sh* > /dev/null 2>&1
 history -c
 clear
-echo "\033[1;37mInstalado com Sucesso!\033[0m"
+echo "Ioncube Instalado com Sucesso!"
